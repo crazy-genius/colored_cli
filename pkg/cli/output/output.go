@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/crazy-genius/colored_cli/internal/pkg/color"
+	"github.com/crazy-genius/colored_cli/pkg/cli/text/color"
 )
 
 // ColoredOutput wrapper around color
